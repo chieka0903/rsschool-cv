@@ -1,9 +1,10 @@
+![My photo]()
 # Yekaterina Chistova
 
 # Contact
 * Location: Gliwice, Poland
 * Phone: [+48 508 410 202]()
-* Email: chieka0903@gmail.com
+* Email: [chieka0903@gmail.com]()
 * GitHub: chieka0903
 
 # About me
@@ -32,11 +33,11 @@ function multiply(a, b){
   * JavaScript (in process)
 
 # Experience
-* BKM HOLDING
+* [BKM HOLDING]()
   * Commercial Director
-* STADLER
+* [STADLER]()
   * Head of Sales
-* BKM HOLDING
+* [BKM HOLDING]()
   * Sales Specialist
 
 # Languages
