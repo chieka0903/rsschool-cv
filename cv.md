@@ -2,7 +2,7 @@
 
 # Contact
 * Location: Gliwice, Poland
-* Phone: +48 508 410 202
+* Phone: [+48 508 410 202]()
 * Email: chieka0903@gmail.com
 * GitHub: chieka0903
 
@@ -16,13 +16,18 @@ I want to connect my future activity with IT
 - Git/GitHub
 
 # Code Examples
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 # Education
-* Belarussian State University of Transport
+* [Belarussian State University of Transport](https://www.bsut.by/en/)
   * Engineer
-* Belarusian State Economic University
+* [Belarusian State Economic University]()
   * marketing manager
-* IT Akademy
+* [IT Akademy]()
   * HTML/CSS
   * JavaScript (in process)
 
