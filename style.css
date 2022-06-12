@@ -1,7 +1,78 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+
+
+.clearfix:after { 
+    content: "."; 
+    visibility: hidden; 
+    display: block;
+     clear: both 
+}
+
+
 .navigation {
     border: solid red 1px;
+    background-color:#1E2939;
+    text-align: right;
+    padding-right: 15px;
+    font-size: 10px;
 }
+
+.navigation li a {
+    color: #F5F7FA;
+}
+
 .navigation li {
     display: inline;
-    margin-left: 10px;
+    margin-left: 10px;  
+}
+
+.side-bar-section {
+    border: solid yellowgreen 1px;
+    width: 370px;
+    float:left;
+    background-color:#1E2939;
+    color: #F5F7FA;
+    padding:5 10 10 20;
+}
+
+.contact-skills-section {
+    margin-left: 40px;
+}
+.sidebar-title {
+    font-size: 22px;
+}
+
+.main-content {
+    border: solid pink 1px;
+    margin-left: 370px;
+}
+
+.about-me-my-name {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.about-me-profession {
+    font-size: 15px;
+}
+
+.main-about-me-section {
+   margin-left: 40px; 
+}
+
+.main-code-examples {
+    border: solid green 1px;
+    margin-left: 40px
+}
+
+.main-experience {
+    margin-left: 40px;
+    font-size: 16px;
+}
+
+.main-education {
+    margin-left: 40px;
 }
